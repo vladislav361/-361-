@@ -1,5 +1,5 @@
 # Яковлев Владислав 361 гр
-                                                                      Яковлев Владислав
+               Яковлев Владислав
 ![Screnshot](https://github.com/vladislav361/-361-/blob/main/pimg361.jpg)
 
 
